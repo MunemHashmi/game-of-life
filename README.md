@@ -1,4 +1,4 @@
-# Game of Life.
+# Game of Life
 A console based simulation of the famous game "Game of Life" written in C++.
 
 ## What is the Game of Life?
